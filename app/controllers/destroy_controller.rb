@@ -1,2 +1,0 @@
-class DestroyController < ApplicationController
-end
